@@ -1,13 +1,13 @@
 do
 
 function run(msg, matches)
-  return 'NOD32-BOT v8'.. VERSION .. [[ 
+  return '☠Telekiller v8'☠.. VERSION .. [[ 
  
-  Developer : @Behroozyaghi
+   🏅 sudo users 🏅 :                                           @Xx_fire_boy_eblis_xX                                                                      @kos_khahare_zendegi
   
-  Channel : @Nod32team
+  Channel : OOOOOOOOOOOO
   
-  Open git : https://github.com/BH-YAGHI/NOD32-BOT.git
+  💥created by Eblis team💥
   
   NOD32 VERSION 8
   
